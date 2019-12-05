@@ -1,5 +1,5 @@
 # FlightScheduler
-
+This is the frontend of the flight-scheduler app, which uses DRF backend. Please use the frontend with the backend in : https://github.com/jyothis-thomas/Flight-scheduler-backend.git
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
